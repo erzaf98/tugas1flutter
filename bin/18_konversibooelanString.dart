@@ -1,5 +1,0 @@
-void main() {
-  var inputString = 'true';
-  var inputBool = inputString == 'true';
-  var strinFromBool = inputBool.toString();
-}
